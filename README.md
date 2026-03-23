@@ -5,7 +5,6 @@ Hi, I'm [@cerebra-crrb](https://github.com/cerebra-crrb).
 - 🎓 Student currently learning **Python** and software development  
 - 💻 Interested in automation, scripting, and practical tools  
 - ⚙️ Experience with **Python scripts** and **AutoHotkey v2**  
-- 🎮 Modified **ChillerBot** in **DDNet (DDraceNetwork)**  
 - 🌱 Continuously improving programming fundamentals and project experience  
 - 🎯 Goal: contribute to open source and build useful real-world projects  
 
