@@ -12,7 +12,6 @@ Hi, I'm [@cerebra-crrb](https://github.com/cerebra-crrb).
 I am a dedicated DDNet player with over **1300 hours** of gameplay!  
 DDNet is an open-source online multiplayer platformer that challenges speed and precision skills.
 
-![DDNet Logo](https://ddnet.org/assets/images/ddnet-logo.svg)
 
 > “Chasing the perfect jump in a virtual world, every challenge is a step beyond myself.”
 
