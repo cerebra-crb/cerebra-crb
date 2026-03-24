@@ -7,7 +7,17 @@ Hi, I'm [@cerebra-crrb](https://github.com/cerebra-crrb).
 - ⚙️ Experience with **Python scripts** and **AutoHotkey v2**  
 - 🌱 Continuously improving programming fundamentals and project experience  
 - 🎯 Goal: contribute to open source and build useful real-world projects
-- [![DDNet](https://ddnet.org/assets/images/ddnet-logo.svg)](https://ddnet.org/)
+## 🎮 Passionate DDNet Player
+
+I am a dedicated DDNet player with over **1300 hours** of gameplay!  
+DDNet is an open-source online multiplayer platformer that challenges speed and precision skills.
+
+![DDNet Logo](https://ddnet.org/assets/images/ddnet-logo.svg)
+
+> “Chasing the perfect jump in a virtual world, every challenge is a step beyond myself.”
+
+If you also enjoy DDNet, feel free to connect! I love discussing map strategies, speedrunning tips, and open-source contributions.  
+I’m passionate about the open-source community, contributing to mods, map editing, and server management.
 
 
 ## 🌐 Socials:
