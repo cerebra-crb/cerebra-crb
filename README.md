@@ -6,7 +6,8 @@ Hi, I'm [@cerebra-crrb](https://github.com/cerebra-crrb).
 - 💻 Interested in automation, scripting, and practical tools  
 - ⚙️ Experience with **Python scripts** and **AutoHotkey v2**  
 - 🌱 Continuously improving programming fundamentals and project experience  
-- 🎯 Goal: contribute to open source and build useful real-world projects  
+- 🎯 Goal: contribute to open source and build useful real-world projects
+- [![DDNet](https://ddnet.org/assets/images/ddnet-logo.svg)](https://ddnet.org/)
 
 
 ## 🌐 Socials:
