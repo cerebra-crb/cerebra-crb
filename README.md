@@ -9,13 +9,10 @@ Hi, I'm [@cerebra-crrb](https://github.com/cerebra-crrb).
 - 🎯 Goal: contribute to open source and build useful real-world projects
 ## 🎮 Passionate DDNet Player
 
-I am a dedicated DDNet player with over **1300 hours** of gameplay!  
-DDNet is an open-source online multiplayer platformer that challenges speed and precision skills.
+I’m a beginner DDNet player with over **1300 hours** of gameplay!  
+DDNet is an open-source cooperative platformer focused on team-based map completion, with a strong social aspect.
 
-
-> “Chasing the perfect jump in a virtual world, every challenge is a step beyond myself.”
-> 
-> 
+> “Alone we can do so little; together we can do so much.” — Helen Keller
 If you also play on Chinese servers, feel free to play with me!
 
 ![image](77329f88-1253-4f59-ab74-de5216f722bb.png)
