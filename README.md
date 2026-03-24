@@ -18,7 +18,7 @@ DDNet is an open-source online multiplayer platformer that challenges speed and 
 > 
 If you also play on Chinese servers, feel free to play with me!
 
-![image](9b26231e-02da-47fd-ba16-1bd431d4afe0.png)
+![image](77329f88-1253-4f59-ab74-de5216f722bb.png)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tianyicrb@gmail.com) 
 
