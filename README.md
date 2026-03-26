@@ -29,7 +29,7 @@ gantt
     title GSoC 2026: MGnify Proteins SSN Timeline
     dateFormat  YYYY-MM-DD
     section Community Bonding
-    Environment and Benchmarking    :active, w1, 2026-05-04, 2w
+    Benchmarking    :active, w1, 2026-05-04, 2w
     section Phase 1: Backend
     MMseqs2 Pipeline (Bash)       :w2, after w1, 3w
     section Phase 2: Graphing
